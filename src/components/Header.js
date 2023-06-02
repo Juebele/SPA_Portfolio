@@ -7,8 +7,11 @@ function Header(props) {
   console.log(props);
 
   return (
-    <div className={`alert alert-${props.type || 'success'}`}>
-      {props.message}
+    <div className="container-fluid">
+      <div class="center">
+      <h1>James Uebele</h1>
+      <h2>Full-Stack Web Developer and Software Engineer</h2>
+      </div>
     </div>
   );
 }

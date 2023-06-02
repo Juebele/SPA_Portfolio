@@ -3,9 +3,9 @@ import React from 'react';
 // First we import our Alert component from the components folder
 import Header from './components/Header';
 import Footer from './components/Footer'
+import Main from './components/Main';
 
 // We create a couple variables which contain strings
-const message = 'Welcome to my portfolio!';
 const alertType = "info";
 const githubLink = "https://github.com/Juebele/";
 
@@ -14,8 +14,9 @@ const githubLink = "https://github.com/Juebele/";
 function App() {
   return (
     <div>
-  <Header type={alertType} message={message} />
-  <Footer type={alertType} githubLink={githubLink} />
+  <Header/>
+  <Main/>
+  <Footer/>
   </div>
   )
 }
