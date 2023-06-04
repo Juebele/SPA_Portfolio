@@ -7,10 +7,10 @@ function Header(props) {
   console.log(props);
 
   return (
-    <div className="container-fluid">
+    <div className="container-fluid header">
       <div class="center">
       <h1>James Uebele</h1>
-      <h2>Full-Stack Web Developer and Software Engineer</h2>
+      <h2>Full-Stack Web Developer Building Pages for Startups</h2>
       </div>
     </div>
   );
