@@ -28,27 +28,6 @@
 
 }
 
-
-/* .logo{
-    color: black;
-    background-color: transparent;
-    font-size: 35px;
-    font-weight: bold;
-    font-style: italic;
-} */
-
-/* .header a{
-    text-decoration: none;
-    color: black;
-    background-color: var(--color2);
-    border-radius: 20px;
-}
-
-.header a:hover{
-    color: var(--color3);
-    background-color: var(--color4);
-} */
-
 .navigation {
     background-color: transparent;
 }
@@ -59,11 +38,6 @@
     padding-top: 30px;
 }
 
-/* .headshot {
-    background-image: url(./assets/headshot.png);
-    object-fit:cover;
-} */
-
 .headshot {
     max-width: 100%;
     min-height: 100px;
@@ -71,6 +45,12 @@
     border-width: 5px;
     border-color: var(--color1);
     border-style: solid;
+}
+
+.card-image {
+    max-width: 100%;
+    min-height: 100px;
+    border-radius: 15px;
 }
 
 .card{
@@ -83,27 +63,18 @@
     justify-content: space-between;
 }
 
-.card-image {
-    height: 150px;
-    margin-bottom: 15px;
-    background-size: cover;
-    border-top: 15px;
-}
 
 .project-1 {
-    background-image: url(./assets/stonks2.png);
     border-top-left-radius: 15px;
     border-top-right-radius: 15px;
 }
 
 .project-2 {
-    background-image: url(./assets/flapjax.png);
     border-top-left-radius: 15px;
     border-top-right-radius: 15px;
 }
 
 .project-3 {
-    background-image: url(./assets/notes.png);
     border-top-left-radius: 15px;
     border-top-right-radius: 15px;
 }
