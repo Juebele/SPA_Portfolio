@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.44b85f29.css",
+    "main.js": "/static/js/main.c29edaef.js",
+    "static/media/flapjax.png": "/static/media/flapjax.bfa1869153d75e85bc09.png",
+    "static/media/stonks2.png": "/static/media/stonks2.9516eb84c87e6ef34b50.png",
+    "static/media/headshot.png": "/static/media/headshot.edae24571680bcee9ad8.png",
+    "static/media/notes.png": "/static/media/notes.562017a19146fb5e6c84.png",
+    "index.html": "/index.html",
+    "main.44b85f29.css.map": "/static/css/main.44b85f29.css.map",
+    "main.c29edaef.js.map": "/static/js/main.c29edaef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44b85f29.css",
+    "static/js/main.c29edaef.js"
+  ]
+}
