@@ -15,6 +15,7 @@
 }
 
 .header {
+    color: whitesmoke;
     background-color: black;
     opacity: 70%;
     display: flex;
