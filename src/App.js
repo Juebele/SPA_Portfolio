@@ -16,7 +16,7 @@ const githubLink = "https://github.com/Juebele/";
 // We also pass a type prop to the component set to the value of "alertType"
 function App() {
   return (
-    <div>
+    <div class="body">
   <Header/>
   <About/>
   <Main/>

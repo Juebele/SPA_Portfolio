@@ -10,8 +10,13 @@
     --color4: #efefef;
 }
 
+.body {
+    background-image: linear-gradient(white, white,  yellow)
+}
+
 .header {
-    background-color: #efefef;
+    background-color: black;
+    opacity: 70%;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -91,6 +96,10 @@
 .headshot {
     max-width: 100%;
     min-height: 100px;
+    border-radius: 15px;
+    border-width: 5px;
+    border-color: var(--color2);
+    border-style: solid;
 }
 
 .column-right img {
