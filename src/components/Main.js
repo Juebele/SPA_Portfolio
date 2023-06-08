@@ -10,7 +10,7 @@ function Main(props) {
     return (
 <section class="container image-row">
 <div class="row">
-    <div class="card col-md">
+    <div class="card col-md" onclick="link">
             <div class="project-1"><img src={Project1} alt="an image of my first project" class="card-image"></img></div>
         <h2>Market Research Tool</h2>
         <p>This group project uses third-party APIs to fetch live stock market data. This was an early experience with group work that taught me how to use Git collaboratively.</p>
