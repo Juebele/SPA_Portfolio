@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/SPA_Portfolio/static/css/main.cfa66f6d.css",
-    "main.js": "/SPA_Portfolio/static/js/main.75c82070.js",
+    "main.css": "/SPA_Portfolio/static/css/main.70c8fecc.css",
+    "main.js": "/SPA_Portfolio/static/js/main.046282be.js",
     "static/media/flapjax.png": "/SPA_Portfolio/static/media/flapjax.bfa1869153d75e85bc09.png",
-    "static/media/stonks2.png": "/SPA_Portfolio/static/media/stonks2.9516eb84c87e6ef34b50.png",
+    "static/media/stonks.png": "/SPA_Portfolio/static/media/stonks.45745014d7b456402de5.png",
     "static/media/headshot.png": "/SPA_Portfolio/static/media/headshot.edae24571680bcee9ad8.png",
     "static/media/notes.png": "/SPA_Portfolio/static/media/notes.562017a19146fb5e6c84.png",
     "index.html": "/SPA_Portfolio/index.html",
-    "main.cfa66f6d.css.map": "/SPA_Portfolio/static/css/main.cfa66f6d.css.map",
-    "main.75c82070.js.map": "/SPA_Portfolio/static/js/main.75c82070.js.map"
+    "main.70c8fecc.css.map": "/SPA_Portfolio/static/css/main.70c8fecc.css.map",
+    "main.046282be.js.map": "/SPA_Portfolio/static/js/main.046282be.js.map"
   },
   "entrypoints": [
-    "static/css/main.cfa66f6d.css",
-    "static/js/main.75c82070.js"
+    "static/css/main.70c8fecc.css",
+    "static/js/main.046282be.js"
   ]
 }
