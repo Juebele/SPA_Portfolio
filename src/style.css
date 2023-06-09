@@ -42,9 +42,6 @@
     max-width: 100%;
     min-height: 100px;
     border-radius: 15px;
-    border-width: 5px;
-    border-color: var(--color1);
-    border-style: solid;
 }
 
 .card-image {
@@ -105,8 +102,8 @@
 }
 
 .card:hover {
-    background-color: var(--color2);
-    color: #DDE6ED;
+    background-color: var(--color4);
+    color: black;
     cursor: pointer;
     transform: scale(1.03);
     transition: all .5s ease;
@@ -127,7 +124,7 @@
     font-size: 2rem;
     color: black;
     text-decoration: none;
-    background-color: var(--color2);
+    background-color: var(--color4);
     padding: 2px;
     margin: 5px;
     border-radius: 10px;
