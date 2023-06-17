@@ -10,7 +10,7 @@ function Header(props) {
     <div className="container-fluid header">
       <div class="center">
       <h1>James Uebele</h1>
-      <h2>Full-Stack Web Developer Building with a Strong Knowledge of the Latest Technologies</h2>
+      <h2>Full-Stack Web Developer Using the Latest Technologies</h2>
       </div>
     </div>
   );
