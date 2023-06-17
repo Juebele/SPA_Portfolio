@@ -109,6 +109,16 @@
     transition: all .5s ease;
 }
 
+#contributorLinks {
+    text-align: center;
+}
+
+.footer-link {
+    text-decoration: none;
+    /* font-weight: bold; */
+    font-size: .8rem;
+}
+
 .links {
     display: flex;
     font-size: 30px;
