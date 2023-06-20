@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/SPA_Portfolio/static/css/main.70c8fecc.css",
-    "main.js": "/SPA_Portfolio/static/js/main.046282be.js",
+    "main.css": "/SPA_Portfolio/static/css/main.52d2bc54.css",
+    "main.js": "/SPA_Portfolio/static/js/main.3ff69650.js",
     "static/media/flapjax.png": "/SPA_Portfolio/static/media/flapjax.bfa1869153d75e85bc09.png",
     "static/media/stonks.png": "/SPA_Portfolio/static/media/stonks.45745014d7b456402de5.png",
     "static/media/headshot.png": "/SPA_Portfolio/static/media/headshot.edae24571680bcee9ad8.png",
-    "static/media/notes.png": "/SPA_Portfolio/static/media/notes.562017a19146fb5e6c84.png",
+    "static/media/bon-voyage-home.jpg": "/SPA_Portfolio/static/media/bon-voyage-home.2aded13d2c5ce0c641f1.jpg",
     "index.html": "/SPA_Portfolio/index.html",
-    "main.70c8fecc.css.map": "/SPA_Portfolio/static/css/main.70c8fecc.css.map",
-    "main.046282be.js.map": "/SPA_Portfolio/static/js/main.046282be.js.map"
+    "main.52d2bc54.css.map": "/SPA_Portfolio/static/css/main.52d2bc54.css.map",
+    "main.3ff69650.js.map": "/SPA_Portfolio/static/js/main.3ff69650.js.map"
   },
   "entrypoints": [
-    "static/css/main.70c8fecc.css",
-    "static/js/main.046282be.js"
+    "static/css/main.52d2bc54.css",
+    "static/js/main.3ff69650.js"
   ]
 }
